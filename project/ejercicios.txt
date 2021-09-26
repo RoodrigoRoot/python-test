@@ -1,0 +1,2 @@
+Encontrar la manera de que cuando se ejecuten las pruenas unitarias, no se guarden en el archivo users.txt. Deben guardarse en otro archivo, que sea solo para las pruebas.
+Generar pruebas para los métods faltantes.

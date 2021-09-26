@@ -1,0 +1,17 @@
+
+Reglas de negocio -> Registrar usuarios y Validar la información de los usuarios
+
+User is ok
+Tests User is ok
+
+Tests Validations is ok
+
+Tests
+
+Happy Path -> Todo sale bien
+Excepciones:
+    Formato
+    Loongitud
+Bases de datos:
+    Credenciales incorrectas
+    Destino no encontrado
